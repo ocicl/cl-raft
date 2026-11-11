@@ -4,6 +4,6 @@ A transport-independent Raft consensus state machine for Common Lisp.
 
 |---------+--------------------------------------------+
 | source  | git:https://github.com/atgreen/cl-raft.git |
-| commit  | f821d3e                                    |
+| commit  | 648ea78                                    |
 | systems | cl-raft cl-raft/wal                        |
 |---------+--------------------------------------------+
